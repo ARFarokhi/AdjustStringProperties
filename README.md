@@ -45,6 +45,8 @@ var person = new Person()
             };
 ```
 As you Can See Bellow:
-![](https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/BeforeTrim.png)
+
+<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/BeforeTrim.png" width="400px"/>
+
 
 
