@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdjustStringProperties</id>
+    <version>2.0.0</version>
+    <authors>Alireza Farokhi</authors>
+    <owners>Alireza Farokhi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/ARFarokhi/AdjustStringProperties</projectUrl>
+    <description>This Package Finds All String Properties In An Object (Model,Dto,Entity) And Adjust Them</description>
+    <tags>String,Adjust,Clean,CleanString,AdjustProperty</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\bin\Release\netstandard2.0\AdjustStringProperty.dll" target="lib\netstandard2.0\AdjustStringProperty.dll" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\bin\Debug\netstandard2.0\AdjustStringProperty.deps.json
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\bin\Debug\netstandard2.0\AdjustStringProperty.dll
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\bin\Debug\netstandard2.0\AdjustStringProperty.pdb
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\obj\Debug\netstandard2.0\AdjustStringProperty.csprojAssemblyReference.cache
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\obj\Debug\netstandard2.0\AdjustStringProperty.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\obj\Debug\netstandard2.0\AdjustStringProperty.AssemblyInfoInputs.cache
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\obj\Debug\netstandard2.0\AdjustStringProperty.AssemblyInfo.cs
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\obj\Debug\netstandard2.0\AdjustStringProperty.dll
+C:\Users\Alireza\Source\Repos\AdjustStringProperty\AdjustStringProperty\obj\Debug\netstandard2.0\AdjustStringProperty.pdb
