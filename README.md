@@ -1,6 +1,6 @@
 ## Summary
 AdjustStringProperties is a .NET library which find all String Properties in an Object (Model,Dto,Entity) that have Setter and Adjust them.
-this packge Built in .NetStandart 2.0 
+this packge Built in .NetStandard 2.0 
 
 ## How To Install
 #### Install With Package Manager Console
