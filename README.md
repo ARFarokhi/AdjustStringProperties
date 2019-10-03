@@ -6,6 +6,6 @@ AdjustStringProperties is a .NET library which find all String Properties in an 
 - Install-Package AdjustStringProperties
 
 #### Install With NuGet Package Manager
-![alt text](http://url/to/img.png)
+![](https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/Nuget.png)
 
     
