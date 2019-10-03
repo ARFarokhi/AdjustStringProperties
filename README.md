@@ -1,1 +1,2 @@
 # AdjustStringProperties
+## Summary
