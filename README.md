@@ -1,5 +1,6 @@
 ## Summary
 AdjustStringProperties is a .NET library which find all String Properties in an Object (Model,Dto,Entity) that have Setter and Adjust them.
+this packge Built in .NetStandart 2.0 
 
 ## How To Install
 #### Install With Package Manager Console
@@ -72,7 +73,8 @@ After Use of Package It Will Be Like Bellow:
 
 <img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/AfterReplace.png" width="400px"/>
 
-
+#### Note:
+more features are in Progress and will be add to Package soon
 
 
 
