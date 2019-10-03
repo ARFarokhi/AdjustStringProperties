@@ -35,6 +35,7 @@ Now We Can Use Package Like This:
 ### Let's See How AdjustStringProperties Package Can Help:
 
 1-Trim String Peoperties
+
 if User Input Data Is Like Bellow 
 ```
 var person = new Person()
@@ -47,6 +48,31 @@ var person = new Person()
 As you Can See Bellow:
 
 <img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/BeforeTrim.png" width="400px"/>
+
+After Use of Package It Will Be Like Bellow:
+
+<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/AfterTrim.png" width="400px"/>
+
+2-Replace Multiple Spaces With Single
+
+if User Input Contains More Than 1 Space Between Words together ,Spaces Will Replace Will 1 Space .
+look at "Description" property Bellow:
+```
+var person = new Person()
+            {
+                Name = "John",
+                LastName = "Smith",
+                Description = "John        Smith        Description"
+            };
+``` 
+
+<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/BeforeReplace.png" width="400px"/>
+
+After Use of Package It Will Be Like Bellow:
+
+<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/AfterReplace.png" width="400px"/>
+
+
 
 
 
