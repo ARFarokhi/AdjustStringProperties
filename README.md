@@ -31,7 +31,7 @@ var person = new Person()
 ```
 Now We Can Use Package Like This:
 ```
- person.AdjustStringProperties();
+ person.AdjustString();
 ``` 
 ### Let's See How AdjustStringProperties Package Can Help:
 
