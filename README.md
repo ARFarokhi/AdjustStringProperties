@@ -52,7 +52,7 @@ As you Can See Bellow:
 
 After Use of Package It Will Be Like Bellow:
 
-<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/AfterTrim.png" width="400px"/>
+<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/AfterTrim1.png" width="400px"/>
 
 2-Replace Multiple Spaces With Single
 
