@@ -71,7 +71,7 @@ var person = new Person()
 
 After Use of Package It Will Be Like Bellow:
 
-<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/AfterReplace.png" width="400px"/>
+<img src="https://github.com/ARFarokhi/AdjustStringProperties/blob/master/AdjustStringProperty/AdjustStringProperty/Img/AfterReplace1.png" width="400px"/>
 
 #### Note:
 more features are in Progress and will be add to Package
